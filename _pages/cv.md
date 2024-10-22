@@ -9,51 +9,47 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **B.S. in Computer Science**, University of Bologna, Italy (Sept. 2021 – Present)
+* **Applied Sciences Option**, Liceo Scientifico Statale A. B. Sabin, Bologna, Italy (Sept. 2015 – May 2020)
 
-Work experience
+## Work Experience & Projects
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Open-source Development of CXXGraph**
+  * Optimized internal algorithm efficiency by 30%, using custom data structures to create a lightweight alternative to Boost Graph Library, with 15% faster graph traversal.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **mvim - High-Performance Text Editor**
+  * Engineered a text editor inspired by Vim, using C++20 and the ncurses library, reducing memory usage by 25% compared to standard text editors.
 
-Publications
+* **ConnectX AI**
+  * Developed an AI in Java for ConnectX with a 95% win rate, utilizing Alpha-beta pruning to optimize decision-making and reduce computation time by 40%.
+
+* **Operating System on µMPS3**
+  * Designed a functional operating system in C, incorporating advanced queue management and process scheduling, improving context-switch time by 20%.
+
+* **Ascii Adventures**
+  * Developed an infinite platform game in C using ASCII graphics, with procedural generation algorithms and adaptive difficulty scaling, increasing user engagement by 25%.
+
+## Technical Skills
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* **Proficient in**: C/C++ (STL, Boost, CMake+Makefile), Python (Pandas, NumPy), JavaScript, Java
+* **Experienced with**: React, NextJS, ExpressJS, MongoDB, MySQL, HTML, CSS, Bootstrap
+* **Tools and Technologies**: Git, GitHub, GitLab, Linux (Debian), Bash, Unit testing, TailwindCSS, CMake
+
+## Soft Skills
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* **Problem Solving**: Proven ability to tackle complex technical challenges, enhancing software performance in high-impact projects like CXXGraph.
+* **Teamwork**: Collaborated in diverse teams of 6+ members, contributing to large-scale open-source projects.
+* **Adaptability**: Quickly learn and apply new technologies, demonstrated by proficiency in multiple programming languages and frameworks.
+* **Communication**: Strong communication skills developed through contributions to open-source projects and full-stack development.
+
+## Languages
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* **Italian**: Native
+* **English**: Fluent
+
+## Additional Information
 ======
-* Currently signed in to 43 different slack teams
+* **Driving License**: Category B
+
