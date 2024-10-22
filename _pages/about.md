@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Erik Dervishi - Computer Science Portfolio"
+title: "Erik Dervishi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
