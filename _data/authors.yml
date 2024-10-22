@@ -1,18 +1,11 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Erik Dervishi:
+  name        : "Erik Dervishi"
+  uri         : "https://www.linkedin.com/in/erikdervishi"
+  email       : "erikdervishi100@gmail.com"
+  bio         : "Computer Science student at the University of Bologna with 3+ years of experience in C++ and Python. Proven success in optimizing performance, developing AI systems, and contributing to open-source projects."
+  avatar      : "bio-photo-2.jpg"  # You can replace this with a real image if you have one
+  twitter     : ""  # No Twitter link provided
+  github      : "https://github.com/ErikDervishi03"
+  location    : "Bologna, Italy"
